@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Application<br>🌱 I’m currently learning React JS<br>💬 Ask me about "https://ngl.link/flighne "  <br>⚡ MOTO: Life is not a problem to be solved but a reality to be experienced. 
+🔭 I’m currently working on Mobile Application<br>🌱 I’m currently learning React JS<br>💬 Ask me about "https://ngl.link/flighne"  <br>⚡ MOTO: Life is not a problem to be solved but a reality to be experienced. 
 
 
 ## 🌐 Socials:
